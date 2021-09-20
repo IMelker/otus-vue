@@ -1,0 +1,3 @@
+[submodule "otus-vue-1-starter"]
+	path = otus-vue-1-starter
+	url = git@github.com:IMelker/vue-enterprise-boilerplate.git
